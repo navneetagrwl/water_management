@@ -1,0 +1,18 @@
+ table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+ .tableHead {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 15px;
+    background-color: #1C4E80;
+    color: #A5D8DD;
+  }
+  
+  table td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+  }

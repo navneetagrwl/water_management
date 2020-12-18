@@ -1,0 +1,8 @@
+ion-content.background {
+    --background: #f1f1f1;
+}
+
+.header-container {
+    --background: #1C4E80;
+    --color: #A5D8DD;
+}
